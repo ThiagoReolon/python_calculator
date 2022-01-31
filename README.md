@@ -1,13 +1,13 @@
 Primeiro projeto em python,
 
 ## Pré-requisito
-Ter Python 3.0 instalado na máquina.
+Ter Python 3.9.7 instalado na máquina.
 https://www.python.org/downloads/
 
 ## Como executar
 - Clone esse repositório
 - Acesse o reposítório
-- Executar o arquivo CalculadoraThiagoReolon_v1.py
+- Executar o arquivo CalculadoraThiagoReolon_v1.py com o comando "python CalculadoraThiagoReolon_v1.py" em um terminal de comandos.
 
 
 ##
