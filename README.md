@@ -9,7 +9,6 @@ https://www.python.org/downloads/
 - Acesse o reposítório
 - Executar o arquivo CalculadoraThiagoReolon_v1.py com o comando "python CalculadoraThiagoReolon_v1.py" em um terminal de comandos.
 
-
 ##
 
 Versionamento de calculadora em python realizado com base no curso 

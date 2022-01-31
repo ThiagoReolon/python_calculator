@@ -14,7 +14,6 @@ opcao = input("Digite sua opção (1,2,3,4): ")
 num1 = input("\nDigite o primeiro número: ")
 num2 = input("Digite o segundo número: ")
 "\n\n"
-
 if opcao == "1":
       if int(num1)+int(num2) == 4:
             print("\nA soma de ("+num1+"+"+num2+") é = " + str(int(num1)+int(num2)))
